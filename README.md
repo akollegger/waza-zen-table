@@ -112,3 +112,6 @@ I think there are many artistic things which could be done with the basic plotte
 
 The kit included the electronic and firmware components of the table; in addition to the kit components and the table housing (including sand and glass) you'll need a linear bearing system of some sort to transfer the motion of the stepper motors.  We've used a combination of t-slot framing and bearings on smooth rods, but there are other alternatives you could explore.
 
+~~~
+
+@akollegger test using Cloud9 to edit
